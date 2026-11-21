@@ -47,6 +47,7 @@ cv:
         location: Denmark
         area: Physics
         studyType: PhD
+        url: https://doi.org/10.11581/e709a9cc-0560-4523-8aa4-1a6c7527188b
         start_date: 2021
         end_date: 2024
         highlights:
@@ -65,8 +66,11 @@ cv:
         location: Brazil
         area: Materials Science and Engineering
         studyType: MSc
+        url: https://tede.ufam.edu.br/handle/tede/5937
         start_date: 2015
         end_date: 2017
+        highlights:
+          - "Thesis: Structural metastability of the Ni-Ti-Ge system induced by mechanical alloying (in Portuguese)."
 
       - institution: Amazonas State University (UEA)
         location: Brazil
@@ -122,14 +126,6 @@ cv:
       - title: M.Sc. scholarship
         date: 2015
         awarder: CAPES agency, 2015–2017
-
-    Beamtimes Awarded:
-      - label: ESRF
-        details: 5 (1 at ID01 as PI, 2 as co-proposer at ID06-HXM, 2 as scientist at ID06-HXM)
-      - label: DESY
-        details: 3 (1 as PI, 2 as scientist, all at P10)
-      - label: MAX IV
-        details: 11 (4 as PI, 2 as co-proposer, 2 as co-proposer for feasibility, 3 as in-house research, all at NanoMAX)
 
     Conference Talks:
       - bullet: "**2026** · XTOP, 16th Conf. on High-Resolution X-ray Diffraction and Imaging, Karlsruhe, Germany. _Imaging pressure-nucleated and field-erased BiFeO₃ domains via in-situ nano-XRD._"

@@ -37,4 +37,4 @@ I did my PhD in Physics at the [Technical University of Denmark (DTU)](https://w
 - **Winner, Machine Learning for Microscopy Hackathon 2** (2026), for an ML denoising workflow for diffraction microscopy data.
 - **Editor's HOT paper** in _J. Mater. Chem. C_ (2023) and a **journal cover** in _CrystEngComm_ (2019).
 - **19 awarded synchrotron beamtimes** at ESRF, DESY and MAX IV, 6 of them as principal investigator.
-- 18 peer-reviewed papers · h-index 10 · reviewer for _Journal of Applied Crystallography_ and _Applied Physics Letters_.
+- 17 peer-reviewed papers · h-index 10 · reviewer for _Journal of Applied Crystallography_ and _Applied Physics Letters_.

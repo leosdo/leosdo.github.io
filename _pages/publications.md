@@ -15,6 +15,10 @@ nav_order: 1
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @article %}
+
+<h2 class="mt-5">theses</h2>
+
+{% bibliography --query @*[keywords=thesis] %}
 
 </div>
