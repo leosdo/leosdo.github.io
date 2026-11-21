@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: X-ray diffraction and imaging scientist · Postdoctoral researcher at <a href='https://www.lu.se/'>Lund University</a> and the <a href='https://www.maxiv.lu.se/beamlines-accelerators/beamlines/nanomax/'>NanoMAX beamline, MAX IV Laboratory</a>
+subtitle: >-
+  X-ray diffraction and imaging scientist<br>Postdoctoral researcher at <a href='https://portal.research.lu.se/en/persons/leonardo-oliveira/'>Lund University</a> and <a href='https://www.maxiv.lu.se/beamlines-accelerators/beamlines/nanomax/staff/'>MAX IV Laboratory, NanoMAX beamline</a>
 
 profile:
   align: right
-  # To add a photo: put it in assets/img/ as prof_pic.jpg and remove the "#" on the next line.
-  # image: prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MAX IV Laboratory</p>
@@ -29,7 +29,7 @@ My core methods are **Rietveld and Le Bail refinement**, **texture analysis** an
 
 My research focuses on how local structure, strain and residual stress govern functionality in ferroelectrics, antiferroelectrics and other electromechanical materials, from lead-free dielectric ceramics for energy storage to Hf<sub>0.5</sub>Zr<sub>0.5</sub>O<sub>2</sub> device stacks and InGaN nanoLEDs.
 
-I did my PhD in Physics at the [Technical University of Denmark (DTU)](https://www.dtu.dk/), where I quantified heterogeneity in lead-free dielectric ceramics using synchrotron X-rays.
+I did my PhD in Physics at the Technical University of Denmark (DTU), where I [quantified heterogeneity in lead-free dielectric ceramics for energy storage using synchrotron X-rays](https://orbit.dtu.dk/en/publications/quantifying-heterogeneity-in-lead-free-dielectric-ceramics-for-en/).
 
 #### Highlights
 
