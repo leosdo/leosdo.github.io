@@ -1,189 +1,156 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Leonardo Oliveira
+  label: X-ray diffraction and imaging scientist
+  email: leo.official.mail@gmail.com
+  location: Lund, Sweden
+  summary: >-
+    X-ray diffraction and imaging scientist with 7+ years of laboratory and synchrotron experience linking structure,
+    processing and properties in advanced materials. Core methods are Rietveld and Le Bail refinement, texture analysis and
+    in situ diffraction, plus strain and tilt mapping by dark-field X-ray microscopy (DFXM) and nano-diffraction (nano-XRD).
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
+    - network: ORCID
+      username: 0000-0001-9999-206X
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: leonardosoliveira
+    - network: GitHub
+      username: leosdo
 
   sections:
+    Experience:
+      - company: Lund University and MAX IV Laboratory (NanoMAX beamline)
+        position: Postdoctoral researcher
+        location: Lund, Sweden
+        start_date: 2024
+        end_date: present
+        summary: Lead structural characterization across industry and university projects on electromechanical device materials.
+        highlights:
+          - Investigated the origin of electrostriction and giant piezoelectricity in Hf₀.₅Zr₀.₅O₂ device stacks (with DTU).
+          - Resolved nanoscale ferroelectric domain dynamics under electrical bias and nano-indentation (with ETH Zurich and Chalmers), linking mechanical and electrical stimuli to local switching behavior and phase transitions.
+          - Collaborated with Hexagem AB to correlate structural heterogeneity with emission deficiencies in InGaN nanoLEDs.
+          - Built Python scripts for real-time image processing to support users' on-the-fly decision making during experiments.
+
+      - company: Department of Physics, Technical University of Denmark (DTU)
+        position: PhD researcher
+        location: Copenhagen, Denmark
+        start_date: 2021
+        end_date: 2024
+        summary: Quantified how local structure and residual stress govern energy storage in lead-free dielectric ceramics.
+        highlights:
+          - Direct evidence that local residual stress disrupts antiferroelectric stability and energy storage in NaNbO₃.
+          - Produced the first direct strain imaging of pure antiferroelectric domains.
+          - Established the role of site disorder in (1-x)BiFeO₃-xSrTiO₃ relaxor ferroelectric functionality.
+          - Planned and executed beamtime at ESRF in collaboration with European and Chinese partners.
+
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
+      - institution: Technical University of Denmark (DTU)
+        location: Denmark
         area: Physics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2021
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Quantifying heterogeneity in lead-free dielectric ceramics for energy storage using synchrotron X-rays."
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Federal University of ABC (UFABC)
+        location: Brazil
+        area: Nanoscience and Advanced Materials
+        studyType: Doctoral studies
+        start_date: 2018
+        end_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
+          - Physical-property characterization of Ln₂CoFeO₆ double perovskites. Discontinued to begin PhD at DTU.
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+      - institution: Federal University of Amazonas (UFAM)
+        location: Brazil
+        area: Materials Science and Engineering
+        studyType: MSc
+        start_date: 2015
+        end_date: 2017
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - institution: Amazonas State University (UEA)
+        location: Brazil
+        area: Mechanical Engineering
+        studyType: BSc
+        end_date: 2015
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Structure refinement
+        icon: fa-solid fa-cube
+        keywords: "Rietveld and Le Bail, texture analysis (spherical harmonics, ODF), Stephens' anisotropic strain, multi-phase refinement, amorphous quantification"
+      - name: Powder diffraction
+        icon: fa-solid fa-chart-line
+        keywords: "Azimuthal integration (pyFAI), phase indexing, COD and ICSD databases, CIF file creation, instrumental parameters"
+      - name: In situ environments
+        icon: fa-solid fa-temperature-half
+        keywords: "Phase transitions, texture, domain switching and nucleation under heating, humidity, electric field and indentation"
+      - name: Thin-film diffraction
+        icon: fa-solid fa-layer-group
+        keywords: "High-resolution reciprocal space mapping, Friedel-pairs analysis, resonant scattering, epitaxial samples, nanowires"
+      - name: Strain and stress mapping
+        icon: fa-solid fa-microscope
+        keywords: "Dark-field X-ray microscopy (DFXM), scanning nano-diffraction (nano-XRD)"
+      - name: Complementary X-ray mapping
+        icon: fa-solid fa-bolt
+        keywords: "XBIC, XEOL, XRF"
+      - name: Data and automation
+        icon: fa-brands fa-python
+        keywords: "Python (object-oriented): measurement automation, data reduction, image processing, statistics, visualization, ML denoising"
+      - name: Characterization methods
+        icon: fa-solid fa-flask
+        keywords: "Impedance spectroscopy, PPMS, SQUID, DSC, Raman, SEM, automated IV and PUND (Keithley/Keysight)"
+      - name: Materials
+        icon: fa-solid fa-atom
+        keywords: "Energy materials, halide perovskites, ferroelectrics, magnetic materials, metallic alloys, semiconductors, quantum wells, nanowires"
+
+    Honors and Awards:
+      - title: Machine Learning for Microscopy Hackathon 2, winner
+        date: 2026
+        awarder: USA ($1000)
+      - title: ESRF Highlight of the Year 2024
+        date: 2024
+        awarder: ESRF, ID06-HXM
+        summary: Residual-stress work in antiferroelectrics selected as the flagship result of the beamline.
+      - title: Editor's HOT paper
+        date: 2023
+        awarder: Journal of Materials Chemistry C
+        summary: In situ XRD on ferroelectric switching.
+      - title: Journal cover
+        date: 2019
+        awarder: CrystEngComm
+        summary: Liquid water-induced growth of 1D hybrid perovskites (2nd author).
+      - title: M.Sc. scholarship
+        date: 2015
+        awarder: CAPES agency, 2015–2017
+
+    Beamtimes Awarded:
+      - label: ESRF
+        details: 5 (1 at ID01 as PI, 2 as co-proposer at ID06-HXM, 2 as scientist at ID06-HXM)
+      - label: DESY
+        details: 3 (1 as PI, 2 as scientist, all at P10)
+      - label: MAX IV
+        details: 11 (4 as PI, 2 as co-proposer, 2 as co-proposer for feasibility, 3 as in-house research, all at NanoMAX)
+
+    Conference Talks:
+      - bullet: "**2026** · XTOP, 16th Conf. on High-Resolution X-ray Diffraction and Imaging, Karlsruhe, Germany. _Imaging pressure-nucleated and field-erased BiFeO₃ domains via in-situ nano-XRD._"
+      - bullet: "**2026** · 3rd Korea–Sweden Advanced X-ray Science Symposium."
+      - bullet: "**2026** · MAX 4U upgrade, university roadshow, Sweden (invited)."
+      - bullet: "**2024** · New Opportunities in Diffraction Microscopy, ESRF, France (invited). _Can residual stress disrupt the energy storage functionality of antiferroelectric NaNbO₃ ceramics?_"
+      - bullet: "**2023** · ISAF, Cleveland, USA. _3D Structure of Defects in Antiferroelectric NaNbO₃ Single Crystal._"
+      - bullet: "**2023** · IMF, 15th Int. Meeting on Ferroelectricity, Tel Aviv, Israel. _In Situ Mapping of {100}pc Residual Strains in NaNbO₃ Across Thermally Induced Phase Transitions._"
+      - bullet: "**2022** · ISAF, Tours, France. _In situ Electric-Field-Induced Transition from Non-Ergodic Relaxor to Ferroelectric State in BiFeO₃–xSrTiO₃._"
+
+    Training Courses:
+      - bullet: FerroSchool (2022)
+      - bullet: TOPAS Academic (2019)
+      - bullet: 1st Brazilian Synchrotron School (2017)
+      - bullet: GSAS School (2016)
+
+    Service:
+      - bullet: Reviewer for Journal of Applied Crystallography and Applied Physics Letters.
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
+      - name: Portuguese
+        summary: Native
       - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        summary: Fluent

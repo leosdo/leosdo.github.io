@@ -2,33 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: X-ray diffraction and imaging scientist · Postdoctoral researcher at <a href='https://www.lu.se/'>Lund University</a> and the <a href='https://www.maxiv.lu.se/beamlines-accelerators/beamlines/nanomax/'>NanoMAX beamline, MAX IV Laboratory</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  # To add a photo: put it in assets/img/ as prof_pic.jpg and remove the "#" on the next line.
+  # image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>MAX IV Laboratory</p>
+    <p>Lund, Sweden</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # turn on and add files to _news/ to show a news list
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an X-ray diffraction and imaging scientist with 7+ years of laboratory and synchrotron experience linking **structure, processing and properties** in advanced materials.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My core methods are **Rietveld and Le Bail refinement**, **texture analysis** and **in situ diffraction**, together with strain and tilt mapping by **dark-field X-ray microscopy (DFXM)** and **scanning nano-diffraction (nano-XRD)**. As a postdoc at the NanoMAX beamline at MAX IV, I run in situ experiments with users, assess their feasibility, and develop Python tools for processing data during beamtime.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research focuses on how local structure, strain and residual stress govern functionality in ferroelectrics, antiferroelectrics and other electromechanical materials, from lead-free dielectric ceramics for energy storage to Hf<sub>0.5</sub>Zr<sub>0.5</sub>O<sub>2</sub> device stacks and InGaN nanoLEDs.
+
+I did my PhD in Physics at the [Technical University of Denmark (DTU)](https://www.dtu.dk/), where I quantified heterogeneity in lead-free dielectric ceramics using synchrotron X-rays.
+
+#### Highlights
+
+- **ESRF Highlight of the Year 2024**: my residual-stress work on antiferroelectric NaNbO<sub>3</sub> was selected as the flagship result of the ID06-HXM beamline.
+- **Winner, Machine Learning for Microscopy Hackathon 2** (2026), for an ML denoising workflow for diffraction microscopy data.
+- **Editor's HOT paper** in _J. Mater. Chem. C_ (2023) and a **journal cover** in _CrystEngComm_ (2019).
+- **19 awarded synchrotron beamtimes** at ESRF, DESY and MAX IV, 6 of them as principal investigator.
+- 18 peer-reviewed papers · h-index 10 · reviewer for _Journal of Applied Crystallography_ and _Applied Physics Letters_.
