@@ -13,4 +13,4 @@ A correlative in situ nano-XRD protocol follows indentation-induced plastic defo
 
 Earlier, using in situ X-ray diffraction under electric-field cycling, I showed how compositional disorder governs the non-polar/polar phase boundary in BiFeO<sub>3</sub>–SrTiO<sub>3</sub> relaxor ferroelectrics.
 
-{% cite oliveira2023relaxor %}
+{% nocite oliveira2023relaxor %}

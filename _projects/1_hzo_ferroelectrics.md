@@ -13,4 +13,4 @@ Using in situ scanning nano-diffraction at NanoMAX under electrical bias, we sho
 
 Ongoing work uses nano resonant elastic scattering to map ferroelectric polarization underneath electrodes.
 
-{% cite bergne2026electrostriction bergne2026ferroionic %}
+{% nocite bergne2026electrostriction bergne2026ferroionic %}

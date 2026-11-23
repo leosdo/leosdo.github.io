@@ -12,4 +12,4 @@ Antiferroelectric NaNbO<sub>3</sub> is a promising lead-free material for dielec
 - I found direct evidence that **local residual shear stress destabilizes antiferroelectric order**, driving an unwanted polar transition that degrades energy-storage performance. This work was selected as the **ESRF Highlight of the Year 2024** for ID06-HXM.
 - I produced the **first direct strain images of pure antiferroelectric domains** in NaNbO<sub>3</sub> and its solid solutions, showing that solid solutions improve mesostructural ordering through well-defined periodic strain gradients.
 
-{% cite oliveira2024residual oliveira2024superstructure %}
+{% nocite oliveira2024residual oliveira2024superstructure %}
