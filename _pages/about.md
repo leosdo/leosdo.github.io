@@ -10,7 +10,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MAX IV Laboratory</p>
+    <p>Synchrotron Radiation Research</p>
+    <p>Department of Physics, Lund University</p>
+    <p>NanoMAX beamline</p>
+    <p>MAX IV Synchrotron</p>
     <p>Lund, Sweden</p>
 
 selected_papers: false # shown at the end of the text below instead, with a capitalised heading
