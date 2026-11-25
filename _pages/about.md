@@ -48,6 +48,7 @@ I did my PhD in Physics at the Technical University of Denmark (DTU), where I [q
   .link-card { display: flex; flex-direction: column; border: 1px solid var(--global-divider-color); border-radius: 8px; overflow: hidden; color: var(--global-text-color) !important; background: var(--global-card-bg-color); text-decoration: none !important; transition: border-color 0.2s; }
   .link-card:hover { border-color: var(--global-theme-color); }
   .link-card img { width: 100%; height: 160px; object-fit: cover; display: block; margin: 0; }
+  .link-card img.lc-missing { visibility: hidden; background: var(--global-divider-color); }
   .link-card .lc-body { padding: 0.75rem 1rem 1rem; }
   .link-card .lc-source { font-size: 0.8rem; color: var(--global-text-color-light); margin-bottom: 0.25rem; }
   .link-card .lc-title { font-weight: 600; line-height: 1.3; margin-bottom: 0.4rem; }
@@ -56,7 +57,7 @@ I did my PhD in Physics at the Technical University of Denmark (DTU), where I [q
 
 <div class="link-cards">
 <a class="link-card" href="https://www.maxiv.lu.se/article/beamline-collaborations-through-max-ivs-shared-postdocs-leonardo-oliveira/" target="_blank" rel="noopener">
-<img src="https://www.maxiv.lu.se/wp-content/uploads/2026/02/Adobe-Express-file.jpg" alt="" loading="lazy">
+<img src="https://www.maxiv.lu.se/wp-content/uploads/2026/02/Adobe-Express-file.jpg" alt="Leonardo Oliveira at the NanoMAX beamline" loading="lazy" style="object-position: center 30%;" onerror="this.classList.add('lc-missing')">
 <div class="lc-body">
 <div class="lc-source">MAX IV · Interview · Feb 2026</div>
 <div class="lc-title">Beamline collaborations through MAX IV's shared postdocs: Leonardo Oliveira</div>
@@ -64,7 +65,7 @@ I did my PhD in Physics at the Technical University of Denmark (DTU), where I [q
 </div>
 </a>
 <a class="link-card" href="https://www.esrf.fr/files/live/sites/www/files/ExternalFiles/Communication/Highlights/2024/index.html#/page/70" target="_blank" rel="noopener">
-<img src="https://www.esrf.fr/files/live/sites/www/files/ExternalFiles/Communication/Highlights/2024/data/background/150/p1.jpg" alt="" loading="lazy" style="object-position: top;">
+<img src="https://toolbox.fluidbook.com/services/socialimage/nL0NkJx7/1738163273" alt="Cover of ESRF Highlights 2024" loading="lazy" onerror="this.classList.add('lc-missing')">
 <div class="lc-body">
 <div class="lc-source">ESRF · Highlights 2024 · p. 70</div>
 <div class="lc-title">ESRF Highlights 2024: residual stress in antiferroelectric NaNbO<sub>3</sub></div>
