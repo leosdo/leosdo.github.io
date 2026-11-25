@@ -112,6 +112,7 @@ cv:
         date: 2026
         awarder: USA ($1000)
       - title: ESRF Highlight of the Year 2024
+        url: https://www.esrf.fr/files/live/sites/www/files/ExternalFiles/Communication/Highlights/2024/index.html#/page/70
         date: 2024
         awarder: ESRF, ID06-HXM
         summary: Residual-stress work in antiferroelectrics selected as the flagship result of the beamline.
